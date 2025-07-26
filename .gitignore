@@ -24,9 +24,7 @@ dist/
 build/
 *.spec
 
-# Model files
-random_forest_spam_model.pkl
-tfidf_vectorizer.pkl
+
 
 # Dataset CSV files (prevent accidental upload of training data)
 *.csv
